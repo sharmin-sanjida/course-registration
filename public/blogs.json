@@ -1,0 +1,49 @@
+
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/8cGTqwM/Rectangle-2-2.png",
+      "title": "The Enigma of Time",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "author1.jpg",
+      "price": "15000",
+      "Credit": "1 hr"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/8Ng5Szf/Rectangle-2-3.png",
+      "title": "Beyond the Horizon",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "author2.jpg",
+      "price": "25000",
+      "Credit": "2 hr"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/9YkTWff/Rectangle-2-4.png",
+      "title": "Echoes of Silence",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "author3.jpg",
+      "price": "10000",
+      "Credit": "10 hr"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/X8MYpf1/Rectangle-3.png",
+      "title": "Whispers in the Wind",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "author4.jpg",
+      "price": "35000",
+      "Credit": "5 hr"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/zNnsr8Z/Rectangle-2.png",
+      "title": "Dance of Shadows",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "author5.jpg",
+      "price": "19000",
+      "Credit": "5 hr"
+    }
+  ]
+  
